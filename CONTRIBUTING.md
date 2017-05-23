@@ -8,6 +8,7 @@ Your contributions are always welcome!
 * Add one link per Pull Request.
 * Add the link: `* [project-name](http://example.com/) - A short description ends with a period.`
     * Keep descriptions concise.
+    * To avoid conflicts, sections and entries within sections are ordered alphabatically.
     * If the project is dead or not in active development, mark it as such.
 * Add a section if needed.
     * Add the section description.
