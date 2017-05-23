@@ -6,7 +6,7 @@ A curated list of awesome open source projects in Jordan or by Jordanians.
 # Table of contents
 
 - [Awesome Jordan](#awesome-jordan)
-	- [Javascript](#javascript)
+    - [Javascript](#javascript)
     - [NodeJS](#nodejs)
     - [Python](#python)
     - [Ruby](#ruby)
