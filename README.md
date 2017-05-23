@@ -7,6 +7,7 @@ A curated list of awesome open source projects in Jordan or by Jordanians.
 
 [Awesome Jordan](#awesome-jordan)
 - [Javascript](#javascript)
+- [Linux](#linux)
 - [NodeJS](#nodejs)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -15,6 +16,11 @@ A curated list of awesome open source projects in Jordan or by Jordanians.
 
 ## Javascript
 * [Inferno-Milligram Boilerplate](https://github.com/KhaledElAnsari/inferno-milligram-boilerplate) - Minimal boilerplate for the web using the latest technologies.
+
+## Linux
+
+### Gists
+* [SSH Recipes](https://gist.github.com/mjalajel/beaa91a5f8d04ebb464c2c28da01406a) - Recipes for writing awesome ssh config files.
 
 ## NodeJS
 
