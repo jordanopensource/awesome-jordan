@@ -4,9 +4,11 @@ Your contributions are always welcome!
 
 ## Guidelines
 
+* Only open-source projects, please.
 * Add one link per Pull Request.
 * Add the link: `* [project-name](http://example.com/) - A short description ends with a period.`
     * Keep descriptions concise.
+    * If the project is dead or not in active development, mark it as such.
 * Add a section if needed.
     * Add the section description.
     * Add the section title to Table of Contents.
