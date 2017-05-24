@@ -29,6 +29,7 @@ A curated list of awesome open source projects in Jordan or by Jordanians.
 
 
 ## Python
+* [Diglett](https://github.com/OpenSooq/Diglett) - Diglett is a cron management system that manage all your cron jobs without modifying crontab. Handles locking, logging, error emails, and more.
 
 ## Ruby
 
