@@ -23,6 +23,7 @@ A curated list of awesome open source projects in Jordan or by Jordanians.
 * [SSH Recipes](https://gist.github.com/mjalajel/beaa91a5f8d04ebb464c2c28da01406a) - Recipes for writing awesome ssh config files.
 
 ## NodeJS
+* [geojson-lookup](https://github.com/nestrom/geojson-lookup) - Lookup Geojson feature collections by indexing them by feature properties (INDEX TABLES) and by a Geometry (R-TREE) all in memory.
 
 ## Python
 
