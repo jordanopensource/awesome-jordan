@@ -16,6 +16,7 @@ A curated list of awesome open source projects in Jordan or by Jordanians.
 
 ## Javascript
 * [Inferno-Milligram Boilerplate](https://github.com/KhaledElAnsari/inferno-milligram-boilerplate) - Minimal boilerplate for the web using the latest technologies.
+* [Geojson-lookup](https://github.com/nestrom/geojson-lookup) - Lookup Geojson feature collections by indexing them by feature properties and by a GeoIndex for polygons to find polygons by a point.
 
 ## Linux
 
