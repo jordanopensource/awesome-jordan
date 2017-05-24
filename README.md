@@ -6,6 +6,8 @@ A curated list of awesome open source projects in Jordan or by Jordanians.
 # Table of contents
 
 [Awesome Jordan](#awesome-jordan)
+
+- [C#](#c)
 - [Javascript](#javascript)
 - [Linux](#linux)
 - [NodeJS](#nodejs)
@@ -14,6 +16,11 @@ A curated list of awesome open source projects in Jordan or by Jordanians.
 - [Android](#android)
 
 # Awesome Jordan
+
+
+## C#
+
+  * [C# Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - Portable class-library of 35+ Data Structures and 30+ Algorithms.
 
 ## Javascript
 * [Inferno-Milligram Boilerplate](https://github.com/KhaledElAnsari/inferno-milligram-boilerplate) - Minimal boilerplate for the web using the latest technologies.
