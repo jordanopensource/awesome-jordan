@@ -24,6 +24,7 @@ A curated list of awesome open source projects in Jordan or by Jordanians.
 
 ## NodeJS
 * [MySQL Punisher](https://github.com/faressoft/mysql-punisher) - Watch and kill active mysql queries that exeeded a specefic timeout.
+* [Azhan Jo](https://github.com/faressoft/azhan-jo) - Get azhan times in Amman.
 
 ## Python
 
