@@ -11,6 +11,7 @@ A curated list of awesome open source projects in Jordan or by Jordanians.
 - [NodeJS](#nodejs)
 - [Python](#python)
 - [Ruby](#ruby)
+- [Android](#android)
 
 # Awesome Jordan
 
@@ -32,6 +33,8 @@ A curated list of awesome open source projects in Jordan or by Jordanians.
 
 ## Ruby
 
+## Android
+* [MDC_LocLookup](https://github.com/NRCMERO/MDC_LocLookup) - Off Line Location Look up.
 
 
 # Contributing
