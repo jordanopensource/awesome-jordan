@@ -23,6 +23,7 @@ A curated list of awesome open source projects in Jordan or by Jordanians.
 * [SSH Recipes](https://gist.github.com/mjalajel/beaa91a5f8d04ebb464c2c28da01406a) - Recipes for writing awesome ssh config files.
 
 ## NodeJS
+* [MySQL Punisher](https://github.com/faressoft/mysql-punisher) - Watch and kill active mysql queries that exeeded a specefic timeout.
 
 ## Python
 
