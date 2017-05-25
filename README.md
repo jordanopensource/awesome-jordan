@@ -49,7 +49,7 @@ A curated list of awesome open source projects in Jordan or by Jordanians.
 * [MDC_LocLookup](https://github.com/NRCMERO/MDC_LocLookup) - Off Line Location Look up.
 
 ## Java
-* [Neo4Reach](https://github.com/wael34218/neo4reach) - Reachability index extension for Neo4j graph database.
+* [Neo4Reach](https://github.com/wael34218/neo4reach) - Reachability index extension for Neo4j graph database (inactive).
 
 # Contributing
 
