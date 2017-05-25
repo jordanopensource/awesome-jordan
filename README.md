@@ -14,6 +14,7 @@ A curated list of awesome open source projects in Jordan or by Jordanians.
 - [Python](#python)
 - [Ruby](#ruby)
 - [Android](#android)
+- [Java](#java)
 
 # Awesome Jordan
 
@@ -47,6 +48,8 @@ A curated list of awesome open source projects in Jordan or by Jordanians.
 ## Android
 * [MDC_LocLookup](https://github.com/NRCMERO/MDC_LocLookup) - Off Line Location Look up.
 
+## Java
+* [Neo4Reach](https://github.com/wael34218/neo4reach) - Reachability index extension for Neo4j graph database.
 
 # Contributing
 
