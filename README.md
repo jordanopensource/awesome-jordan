@@ -5,20 +5,26 @@ A curated list of awesome open source projects in Jordan or by Jordanians.
 
 # Table of contents
 
+_Content odered alphabetically_
+
 [Awesome Jordan](#awesome-jordan)
 
+- [Android](#android)
 - [C#](#c)
 - [D](#d)
+- [Java](#java)
 - [Javascript](#javascript)
 - [Linux](#linux)
 - [NodeJS](#nodejs)
 - [Python](#python)
-- [Ruby](#ruby)
-- [Android](#android)
-- [Java](#java)
 
 # Awesome Jordan
 
+_Content odered alphabetically_
+
+## Android
+
+* [MDC_LocLookup](https://github.com/NRCMERO/MDC_LocLookup) - Off Line Location Look up.
 
 ## C#
 
@@ -29,6 +35,10 @@ A curated list of awesome open source projects in Jordan or by Jordanians.
 
   * [DKit](https://github.com/yazd/DKit) - DKit is a package to aid developing D programs using Sublime Text 3.
   * [backtrace-d](https://github.com/yazd/backtrace-d) - backtrace-d provides a pretty backtrace for D applications running under Linux.
+
+## Java
+* [Neo4Reach](https://github.com/wael34218/neo4reach) - Reachability index extension for Neo4j graph database (inactive).
+
 
 ## Javascript
 * [Hellrazor.js](https://github.com/KhaledElAnsari/Hellrazor.js) - Create custom errors for your JavaScript projects
@@ -52,13 +62,6 @@ A curated list of awesome open source projects in Jordan or by Jordanians.
 * [mockpy](https://github.com/nsomar/mockpy) - python command line utility to create development mock servers under Mac OS X easily.
 * [Django Truncate](https://github.com/KhaledElAnsari/django-truncate) - A simple library to help you truncate your tables with one simple command Edit
 
-## Ruby
-
-## Android
-* [MDC_LocLookup](https://github.com/NRCMERO/MDC_LocLookup) - Off Line Location Look up.
-
-## Java
-* [Neo4Reach](https://github.com/wael34218/neo4reach) - Reachability index extension for Neo4j graph database (inactive).
 
 # Contributing
 
