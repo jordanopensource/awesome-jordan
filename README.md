@@ -8,6 +8,7 @@ A curated list of awesome open source projects in Jordan or by Jordanians.
 [Awesome Jordan](#awesome-jordan)
 
 - [C#](#c)
+- [D](#d)
 - [Javascript](#javascript)
 - [Linux](#linux)
 - [NodeJS](#nodejs)
@@ -21,6 +22,11 @@ A curated list of awesome open source projects in Jordan or by Jordanians.
 ## C#
 
   * [C# Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - Portable class-library of 35+ Data Structures and 30+ Algorithms.
+
+## D
+
+  * [DKit](https://github.com/yazd/DKit) - DKit is a package to aid developing D programs using Sublime Text 3.
+  * [backtrace-d](https://github.com/yazd/backtrace-d) - backtrace-d provides a pretty backtrace for D applications running under Linux.
 
 ## Javascript
 * [Hellrazor.js](https://github.com/KhaledElAnsari/Hellrazor.js) - Create custom errors for your JavaScript projects
