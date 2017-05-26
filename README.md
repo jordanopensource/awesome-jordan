@@ -33,17 +33,17 @@ _Content odered alphabetically_
 
 ## D
 
-  * [DKit](https://github.com/yazd/DKit) - DKit is a package to aid developing D programs using Sublime Text 3.
   * [backtrace-d](https://github.com/yazd/backtrace-d) - backtrace-d provides a pretty backtrace for D applications running under Linux.
+  * [DKit](https://github.com/yazd/DKit) - DKit is a package to aid developing D programs using Sublime Text 3.
 
 ## Java
 * [Neo4Reach](https://github.com/wael34218/neo4reach) - Reachability index extension for Neo4j graph database (inactive).
 
 
 ## Javascript
+* [DOMQL](http://amasad.github.io/DOMQL/) - "jQuery" for DBAs!
 * [Hellrazor.js](https://github.com/KhaledElAnsari/Hellrazor.js) - Create custom errors for your JavaScript projects
 * [Inferno-Milligram Boilerplate](https://github.com/KhaledElAnsari/inferno-milligram-boilerplate) - Minimal boilerplate for the web using the latest technologies.
-* [DOMQL](http://amasad.github.io/DOMQL/) - "jQuery" for DBAs!
 
 ## Linux
 
@@ -53,14 +53,14 @@ _Content odered alphabetically_
 ## NodeJS
 * [Azhan Jo](https://github.com/faressoft/azhan-jo) - Get azhan times in Amman.
 * [geojson-lookup](https://github.com/nestrom/geojson-lookup) - Lookup Geojson feature collections by indexing them by feature properties (INDEX TABLES) and by a Geometry (R-TREE) all in memory.
-* [MySQL Punisher](https://github.com/faressoft/mysql-punisher) - Watch and kill active mysql queries that exeeded a specefic timeout.
 * [hijri-date](https://github.com/arabiaweather/hijri-date) - convert Gregorian Dates to Hijri date.
+* [MySQL Punisher](https://github.com/faressoft/mysql-punisher) - Watch and kill active mysql queries that exeeded a specefic timeout.
 
 
 ## Python
 * [Diglett](https://github.com/OpenSooq/Diglett) - Diglett is a cron management system that manage all your cron jobs without modifying crontab. Handles locking, logging, error emails, and more.
-* [mockpy](https://github.com/nsomar/mockpy) - python command line utility to create development mock servers under Mac OS X easily.
 * [Django Truncate](https://github.com/KhaledElAnsari/django-truncate) - A simple library to help you truncate your tables with one simple command Edit
+* [mockpy](https://github.com/nsomar/mockpy) - python command line utility to create development mock servers under Mac OS X easily.
 
 
 # Contributing
