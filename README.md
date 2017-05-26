@@ -23,6 +23,7 @@ A curated list of awesome open source projects in Jordan or by Jordanians.
 ## C#
 
   * [C# Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - Portable class-library of 35+ Data Structures and 30+ Algorithms.
+  * [RRTM](https://github.com/BaselAriqat/RRTM) - Simulate probablistic path finding algorithms (RRT) and its variation (not in active development).
 
 ## D
 
