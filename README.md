@@ -43,6 +43,7 @@ A curated list of awesome open source projects in Jordan or by Jordanians.
 * [Azhan Jo](https://github.com/faressoft/azhan-jo) - Get azhan times in Amman.
 * [geojson-lookup](https://github.com/nestrom/geojson-lookup) - Lookup Geojson feature collections by indexing them by feature properties (INDEX TABLES) and by a Geometry (R-TREE) all in memory.
 * [MySQL Punisher](https://github.com/faressoft/mysql-punisher) - Watch and kill active mysql queries that exeeded a specefic timeout.
+* [hijri-date](https://github.com/arabiaweather/hijri-date) - convert Gregorian Dates to Hijri date.
 
 
 ## Python
