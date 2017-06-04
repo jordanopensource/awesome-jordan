@@ -12,6 +12,7 @@ _Content odered alphabetically_
 - [Android](#android)
 - [C#](#c)
 - [D](#d)
+- [Docker](#docker)
 - [Java](#java)
 - [Javascript](#javascript)
 - [Linux](#linux)
@@ -35,6 +36,9 @@ _Content odered alphabetically_
 
   * [backtrace-d](https://github.com/yazd/backtrace-d) - backtrace-d provides a pretty backtrace for D applications running under Linux.
   * [DKit](https://github.com/yazd/DKit) - DKit is a package to aid developing D programs using Sublime Text 3.
+
+## Docker
+* [Docker Stanbol Socket.io Server](https://github.com/Vardot/docker-stanbol-nodejs) - A Docker image that installs Apache Stanbol with Socket.IO to provide an HTTP listener for you application with real-time content enhancements.
 
 ## Java
 * [Neo4Reach](https://github.com/wael34218/neo4reach) - Reachability index extension for Neo4j graph database (inactive).
