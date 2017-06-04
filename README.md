@@ -17,6 +17,7 @@ _Content odered alphabetically_
 - [Javascript](#javascript)
 - [Linux](#linux)
 - [NodeJS](#nodejs)
+- [PHP](#php)
 - [Python](#python)
 
 # Awesome Jordan
@@ -60,6 +61,8 @@ _Content odered alphabetically_
 * [hijri-date](https://github.com/arabiaweather/hijri-date) - convert Gregorian Dates to Hijri date.
 * [MySQL Punisher](https://github.com/faressoft/mysql-punisher) - Watch and kill active mysql queries that exeeded a specefic timeout.
 
+## PHP
+* [Varbase](https://github.com/Vardot/varbase) - An open source fully-fledged Web Content Management system built on top of Drupal 8, and enhanced for Arabic and RTL websites.
 
 ## Python
 * [Diglett](https://github.com/OpenSooq/Diglett) - Diglett is a cron management system that manage all your cron jobs without modifying crontab. Handles locking, logging, error emails, and more.
