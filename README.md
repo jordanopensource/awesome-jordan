@@ -56,6 +56,7 @@ _Content odered alphabetically_
 * [DOMQL](http://amasad.github.io/DOMQL/) - "jQuery" for DBAs!
 * [Hellrazor.js](https://github.com/KhaledElAnsari/Hellrazor.js) - Create custom errors for your JavaScript projects
 * [Inferno-Milligram Boilerplate](https://github.com/KhaledElAnsari/inferno-milligram-boilerplate) - Minimal boilerplate for the web using the latest technologies.
+* [Geojson-lookup](https://github.com/nestrom/geojson-lookup) - Lookup Geojson feature collections by indexing them by feature properties and by a GeoIndex for polygons to find polygons by a point.
 
 ## Linux
 
