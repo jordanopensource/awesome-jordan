@@ -42,6 +42,8 @@ _Content odered alphabetically_
 ## Data Science
 
 * [Athena](https://github.com/arabiaweather/athena) - Automatic equation building and curve fitting, runs on Tensorflow, built for academia and research.
+* [SenSim](https://github.com/natsheh/sensim) - Sentence Similarity Estimator
+
 
 ## Docker
 * [Docker Stanbol Socket.io Server](https://github.com/Vardot/docker-stanbol-nodejs) - A Docker image that installs Apache Stanbol with Socket.IO to provide an HTTP listener for you application with real-time content enhancements.
