@@ -33,6 +33,7 @@ _Content odered alphabetically_
 
   * [C# Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - Portable class-library of 35+ Data Structures and 30+ Algorithms.
   * [RRTM](https://github.com/BaselAriqat/RRTM) - Simulate probablistic path finding algorithms (RRT) and its variation (not in active development).
+  * [CryptoN](https://github.com/tamimsalem/CryptoN) - A simple library that makes it easier to do essential crypto tasks. A bit stale.
 
 ## D
 
