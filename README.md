@@ -20,6 +20,7 @@ _Content odered alphabetically_
 - [NodeJS](#nodejs)
 - [PHP](#php)
 - [Python](#python)
+- [Scala](#scala)
 
 # Awesome Jordan
 
@@ -75,6 +76,14 @@ _Content odered alphabetically_
 * [Diglett](https://github.com/OpenSooq/Diglett) - Diglett is a cron management system that manage all your cron jobs without modifying crontab. Handles locking, logging, error emails, and more.
 * [Django Truncate](https://github.com/KhaledElAnsari/django-truncate) - A simple library to help you truncate your tables with one simple command Edit
 * [mockpy](https://github.com/nsomar/mockpy) - python command line utility to create development mock servers under Mac OS X easily.
+
+
+## Scala
+* [Solr Scala Play Framework](https://github.com/Ramzi-Alqrainy/solr-play-scala-client) - A Scala library in Play framework for indexing and searching documents within an Apache Solr. solr-play-scala-client uses SolrJ to communicate with Solr server, and it is compatable with Apache Solr 6.x.
+
+
+
+
 
 
 # Contributing
