@@ -21,6 +21,7 @@ _Content odered alphabetically_
 - [PHP](#php)
 - [Python](#python)
 - [Scala](#scala)
+- [R](#R)
 
 # Awesome Jordan
 
@@ -69,19 +70,24 @@ _Content odered alphabetically_
 * [geojson-lookup](https://github.com/nestrom/geojson-lookup) - Lookup Geojson feature collections by indexing them by feature properties (INDEX TABLES) and by a Geometry (R-TREE) all in memory.
 * [hijri-date](https://github.com/arabiaweather/hijri-date) - convert Gregorian Dates to Hijri date.
 * [MySQL Punisher](https://github.com/faressoft/mysql-punisher) - Watch and kill active mysql queries that exeeded a specefic timeout.
+* [Slack Assembla Plugin](https://github.com/Ramzi-Alqrainy/slack-assembla-plugin) - A Slack plugin that watches channels for messages about Assembla and acts accordingly.
 
 ## PHP
 * [Varbase](https://github.com/Vardot/varbase) - An open source fully-fledged Web Content Management system built on top of Drupal 8, and enhanced for Arabic and RTL websites.
+* [Firebase Notificatio with Yii2](https://github.com/OpenSooq/yii2-firebase-notification) - This extension will make send firebase notifications easy to do for the Yii2 framework.
 
 ## Python
 * [Diglett](https://github.com/OpenSooq/Diglett) - Diglett is a cron management system that manage all your cron jobs without modifying crontab. Handles locking, logging, error emails, and more.
 * [Django Truncate](https://github.com/KhaledElAnsari/django-truncate) - A simple library to help you truncate your tables with one simple command Edit
 * [mockpy](https://github.com/nsomar/mockpy) - python command line utility to create development mock servers under Mac OS X easily.
+* [Gloom](https://github.com/OpenSooq/Gloom) -  Gloom is an opensource service that takes long URLs and squeezes them into fewer characters to make a link that is easier to share, tweet, or email to friends.
 
 
 ## Scala
 * [Solr Scala Play Framework](https://github.com/Ramzi-Alqrainy/solr-play-scala-client) - A Scala library in Play framework for indexing and searching documents within an Apache Solr. solr-play-scala-client uses SolrJ to communicate with Solr server, and it is compatable with Apache Solr 6.x.
 
+## R
+* [Improving Navigation-Based Internal links for SEO](https://github.com/Ramzi-Alqrainy/internal-pagrank) - Calculate Internal PageRank using R from Screaming Frog Crawl
 
 ______________
 
