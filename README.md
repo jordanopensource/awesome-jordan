@@ -1,4 +1,4 @@
-# Awesome Jordan [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Jordan [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jordanopensource/awesome-jordan)
 
 A curated list of awesome open source projects in Jordan or by Jordanians.
 
