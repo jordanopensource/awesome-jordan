@@ -49,7 +49,9 @@ _Content odered alphabetically_
 
 
 ## Docker
+* [Docker Glue](https://github.com/muayyad-alsadi/docker-glue) - Automated unattended pluggable docker management 
 * [Docker Stanbol Socket.io Server](https://github.com/Vardot/docker-stanbol-nodejs) - A Docker image that installs Apache Stanbol with Socket.IO to provide an HTTP listener for you application with real-time content enhancements.
+
 
 ## Java
 * [Neo4Reach](https://github.com/wael34218/neo4reach) - Reachability index extension for Neo4j graph database (inactive).
