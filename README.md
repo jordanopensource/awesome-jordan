@@ -81,6 +81,8 @@ _Content odered alphabetically_
 * [Django Truncate](https://github.com/KhaledElAnsari/django-truncate) - A simple library to help you truncate your tables with one simple command Edit
 * [Gloom](https://github.com/OpenSooq/Gloom) -  Gloom is an opensource service that takes long URLs and squeezes them into fewer characters to make a link that is easier to share, tweet, or email to friends.
 * [mockpy](https://github.com/nsomar/mockpy) - python command line utility to create development mock servers under Mac OS X easily.
+* [python-PooledProcessMixIn](https://github.com/muayyad-alsadi/python-PooledProcessMixIn) - Fast Concurrent Pool of [preforked-processes and threads MixIn](https://stackoverflow.com/questions/11699471/is-there-any-pool-for-threadingmixin-and-forkingmixin-for-socketserver/11781811) for python's socket server
+
 
 ## R
 * [Internal PageRank](https://github.com/Ramzi-Alqrainy/internal-pagrank) - Calculate Internal PageRank using R from Screaming Frog Crawl (To improve Navigation-Based Internal links for SEO)
