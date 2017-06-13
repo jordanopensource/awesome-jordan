@@ -18,6 +18,7 @@ A curated list of awesome open source projects in Jordan or by Jordanians.
 * [Inferno-Milligram Boilerplate](https://github.com/KhaledElAnsari/inferno-milligram-boilerplate) - Minimal boilerplate for the web using the latest technologies.
 
 ## Linux
+* [Command Line Push Notifications](https://github.com/OsamaJBR/command-line-push-notification) - A simple script that could be added to the Linux system and give it the ability to push notifications to Android phone from the command line.
 
 ### Gists
 * [SSH Recipes](https://gist.github.com/mjalajel/beaa91a5f8d04ebb464c2c28da01406a) - Recipes for writing awesome ssh config files.
