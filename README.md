@@ -13,7 +13,7 @@ _Content odered alphabetically_
 - [C#](#c)
 - [D](#d)
 - [Data Science](#data-science)
-- [Docker](#docker)
+- [Docker, Linux containers and Kubernetes](#docker-linux-containers-and-kubernetes)
 - [Java](#java)
 - [Javascript](#javascript)
 - [Linux](#linux)
@@ -48,7 +48,6 @@ _Content odered alphabetically_
 * [SenSim](https://github.com/natsheh/sensim) - Sentence Similarity Estimator
 
 
-## Docker
 ## Docker, Linux containers and Kubernetes
 * [Docker Glue](https://github.com/muayyad-alsadi/docker-glue) - Automated unattended pluggable docker management 
 * [Docker Jumpshell](https://github.com/muayyad-alsadi/docker-jumpshell) - A secure remote shell access inside docker containers without granting access to host or docker socket
