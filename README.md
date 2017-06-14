@@ -65,6 +65,8 @@ _Content odered alphabetically_
 * [Inferno-Milligram Boilerplate](https://github.com/KhaledElAnsari/inferno-milligram-boilerplate) - Minimal boilerplate for the web using the latest technologies.
 
 ## Linux
+* [oneway](https://github.com/muayyad-alsadi/oneway) - a no-way-back tool to drop privileges useful for docker entry-points
+
 
 ### Gists
 * [SSH Recipes](https://gist.github.com/mjalajel/beaa91a5f8d04ebb464c2c28da01406a) - Recipes for writing awesome ssh config files.
