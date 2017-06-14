@@ -48,7 +48,8 @@ _Content odered alphabetically_
 * [SenSim](https://github.com/natsheh/sensim) - Sentence Similarity Estimator
 
 
-## Docker
+## Docker, Linux containers and Kubernetes
+* [Docker Jumpshell](https://github.com/muayyad-alsadi/docker-jumpshell) - A secure remote shell access inside docker containers without granting access to host or docker socket
 * [Docker Stanbol Socket.io Server](https://github.com/Vardot/docker-stanbol-nodejs) - A Docker image that installs Apache Stanbol with Socket.IO to provide an HTTP listener for you application with real-time content enhancements.
 
 ## Java
