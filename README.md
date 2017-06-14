@@ -1,4 +1,4 @@
-# Awesome Jordan [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Jordan [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jordanopensource/awesome-jordan)
 
 A curated list of awesome open source projects in Jordan or by Jordanians.
 
@@ -49,7 +49,11 @@ _Content odered alphabetically_
 
 
 ## Docker
+## Docker, Linux containers and Kubernetes
+* [Docker Glue](https://github.com/muayyad-alsadi/docker-glue) - Automated unattended pluggable docker management 
+* [Docker Jumpshell](https://github.com/muayyad-alsadi/docker-jumpshell) - A secure remote shell access inside docker containers without granting access to host or docker socket
 * [Docker Stanbol Socket.io Server](https://github.com/Vardot/docker-stanbol-nodejs) - A Docker image that installs Apache Stanbol with Socket.IO to provide an HTTP listener for you application with real-time content enhancements.
+
 
 ## Java
 * [Neo4Reach](https://github.com/wael34218/neo4reach) - Reachability index extension for Neo4j graph database (inactive).
@@ -61,6 +65,8 @@ _Content odered alphabetically_
 * [Inferno-Milligram Boilerplate](https://github.com/KhaledElAnsari/inferno-milligram-boilerplate) - Minimal boilerplate for the web using the latest technologies.
 
 ## Linux
+* [oneway](https://github.com/muayyad-alsadi/oneway) - a no-way-back tool to drop privileges useful for docker entry-points
+
 
 ### Gists
 * [SSH Recipes](https://gist.github.com/mjalajel/beaa91a5f8d04ebb464c2c28da01406a) - Recipes for writing awesome ssh config files.
@@ -82,6 +88,8 @@ _Content odered alphabetically_
 * [Gloom](https://github.com/OpenSooq/Gloom) -  Gloom is an opensource service that takes long URLs and squeezes them into fewer characters to make a link that is easier to share, tweet, or email to friends.
 * [mockpy](https://github.com/nsomar/mockpy) - python command line utility to create development mock servers under Mac OS X easily.
 * [pyredis-dump](https://github.com/muayyad-alsadi/pyredis-dump) - A Redis dump/restore tool for long-term storage (currently Python Literals using [AST](https://docs.python.org/2/library/ast.html)) 
+* [python-PooledProcessMixIn](https://github.com/muayyad-alsadi/python-PooledProcessMixIn) - Fast Concurrent Pool of [preforked-processes and threads MixIn](https://stackoverflow.com/questions/11699471/is-there-any-pool-for-threadingmixin-and-forkingmixin-for-socketserver/11781811) for python's socket server
+* [uPyApp](https://github.com/muayyad-alsadi/uPyApp) - Python Microservice Web Application scafold using [bottlepy](https://bottlepy.org/)
 
 ## R
 * [Internal PageRank](https://github.com/Ramzi-Alqrainy/internal-pagrank) - Calculate Internal PageRank using R from Screaming Frog Crawl (To improve Navigation-Based Internal links for SEO)
