@@ -1,4 +1,4 @@
-# Awesome Jordan [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Jordan [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jordanopensource/awesome-jordan)
 
 A curated list of awesome open source projects in Jordan or by Jordanians.
 
@@ -49,7 +49,9 @@ _Content odered alphabetically_
 
 
 ## Docker
+## Docker, Linux containers and Kubernetes
 * [Docker Glue](https://github.com/muayyad-alsadi/docker-glue) - Automated unattended pluggable docker management 
+* [Docker Jumpshell](https://github.com/muayyad-alsadi/docker-jumpshell) - A secure remote shell access inside docker containers without granting access to host or docker socket
 * [Docker Stanbol Socket.io Server](https://github.com/Vardot/docker-stanbol-nodejs) - A Docker image that installs Apache Stanbol with Socket.IO to provide an HTTP listener for you application with real-time content enhancements.
 
 
