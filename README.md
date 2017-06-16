@@ -14,8 +14,8 @@ _Content odered alphabetically_
 - [D](#d)
 - [Data Science](#data-science)
 - [Docker, Linux containers and Kubernetes](#docker-linux-containers-and-kubernetes)
+- [Frontend](#frontend)
 - [Java](#java)
-- [Javascript](#javascript)
 - [Linux](#linux)
 - [NodeJS](#nodejs)
 - [PHP](#php)
@@ -53,15 +53,19 @@ _Content odered alphabetically_
 * [Docker Jumpshell](https://github.com/muayyad-alsadi/docker-jumpshell) - A secure remote shell access inside docker containers without granting access to host or docker socket
 * [Docker Stanbol Socket.io Server](https://github.com/Vardot/docker-stanbol-nodejs) - A Docker image that installs Apache Stanbol with Socket.IO to provide an HTTP listener for you application with real-time content enhancements.
 
+## Frontend
+* [ajax-ops](https://github.com/muayyad-alsadi/ajax-ops) - Declarative Ajax Operations
+* [Bootstrap RTL 2.x ](https://github.com/muayyad-alsadi/bootstrap-rtl/tree/master/2.x) - rtl support for twitter's bootstrap 2.x
+* [Bootstrap RTL 3.x ](https://github.com/muayyad-alsadi/bootstrap-rtl/tree/master/3.x) - rtl support for twitter's bootstrap 3.x
+* [DOMQL](http://amasad.github.io/DOMQL/) - "jQuery" for DBAs!
+* [Hellrazor.js](https://github.com/KhaledElAnsari/Hellrazor.js) - Create custom errors for your JavaScript projects
+* [Inferno-Milligram Boilerplate](https://github.com/KhaledElAnsari/inferno-milligram-boilerplate) - Minimal boilerplate for the web using the latest technologies.
+* [RtlCss](https://github.com/muayyad-alsadi/RtlCss) - Right-to-left override CSS Generator
 
 ## Java
 * [Neo4Reach](https://github.com/wael34218/neo4reach) - Reachability index extension for Neo4j graph database (inactive).
 
 
-## Javascript
-* [DOMQL](http://amasad.github.io/DOMQL/) - "jQuery" for DBAs!
-* [Hellrazor.js](https://github.com/KhaledElAnsari/Hellrazor.js) - Create custom errors for your JavaScript projects
-* [Inferno-Milligram Boilerplate](https://github.com/KhaledElAnsari/inferno-milligram-boilerplate) - Minimal boilerplate for the web using the latest technologies.
 
 ## Linux
 * [Command Line Push Notifications](https://github.com/OsamaJBR/command-line-push-notification) - A simple script that could be added to the Linux system and give it the ability to push notifications to Android phone from the command line.
