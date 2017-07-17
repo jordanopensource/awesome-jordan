@@ -36,6 +36,7 @@ _Content odered alphabetically_
 
   * [C# Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - Portable class-library of 35+ Data Structures and 30+ Algorithms.
   * [CryptoN](https://github.com/tamimsalem/CryptoN) - A simple library that makes it easier to do essential crypto tasks. A bit stale.
+  * [EasyFacebook](https://github.com/Yazan1983/EasyFacebook) - A .NET framework to connect to Facebook API and consume Facebook services
   * [RRTM](https://github.com/BaselAriqat/RRTM) - Simulate probablistic path finding algorithms (RRT) and its variation (not in active development).
 
 ## D
@@ -61,12 +62,11 @@ _Content odered alphabetically_
 * [DOMQL](http://amasad.github.io/DOMQL/) - "jQuery" for DBAs!
 * [Hellrazor.js](https://github.com/KhaledElAnsari/Hellrazor.js) - Create custom errors for your JavaScript projects
 * [Inferno-Milligram Boilerplate](https://github.com/KhaledElAnsari/inferno-milligram-boilerplate) - Minimal boilerplate for the web using the latest technologies.
-* [RtlCss](https://github.com/muayyad-alsadi/RtlCss) - Right-to-left override CSS Generator
 * [jq-console](https://github.com/replit/jq-console) - Feature complete web terminal.
+* [RtlCss](https://github.com/muayyad-alsadi/RtlCss) - Right-to-left override CSS Generator
 
 ## Java
 * [Neo4Reach](https://github.com/wael34218/neo4reach) - Reachability index extension for Neo4j graph database (inactive).
-
 
 
 ## Linux
