@@ -29,8 +29,9 @@ _Content odered alphabetically_
 
 ## Android
 
-* [MDC_LocLookup](https://github.com/NRCMERO/MDC_LocLookup) - Off Line Location Look up.
 * [FireCrasher](https://github.com/osama-raddad/FireCrasher) - Uncaught Exceptions handler library for android.
+* [IslamicLibraryAndroid](https://github.com/fekracomputers/IslamicLibraryAndroid) - Islamic books Library with improved features.
+* [MDC_LocLookup](https://github.com/NRCMERO/MDC_LocLookup) - Off Line Location Look up.
 
 ## C#
 
