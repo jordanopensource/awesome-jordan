@@ -64,6 +64,7 @@ _Content odered alphabetically_
 * [Hellrazor.js](https://github.com/KhaledElAnsari/Hellrazor.js) - Create custom errors for your JavaScript projects
 * [Inferno-Milligram Boilerplate](https://github.com/KhaledElAnsari/inferno-milligram-boilerplate) - Minimal boilerplate for the web using the latest technologies.
 * [jq-console](https://github.com/replit/jq-console) - Feature complete web terminal.
+* [ngx-scroll-event](https://github.com/anasAsh/ngx-scroll-event) - An Angular 2+ directive to emit an event if scroll occurs on an element or window.
 * [RtlCss](https://github.com/muayyad-alsadi/RtlCss) - Right-to-left override CSS Generator
 
 ## Java
