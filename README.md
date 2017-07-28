@@ -52,7 +52,7 @@ _Content odered alphabetically_
 
 
 ## Docker, Linux containers and Kubernetes
-* [Docker Glue](https://github.com/muayyad-alsadi/docker-glue) - Automated unattended pluggable docker management 
+* [Docker Glue](https://github.com/muayyad-alsadi/docker-glue) - Automated unattended pluggable docker management
 * [Docker Jumpshell](https://github.com/muayyad-alsadi/docker-jumpshell) - A secure remote shell access inside docker containers without granting access to host or docker socket
 * [Docker Stanbol Socket.io Server](https://github.com/Vardot/docker-stanbol-nodejs) - A Docker image that installs Apache Stanbol with Socket.IO to provide an HTTP listener for you application with real-time content enhancements.
 
@@ -94,7 +94,7 @@ _Content odered alphabetically_
 * [Django Truncate](https://github.com/KhaledElAnsari/django-truncate) - A simple library to help you truncate your tables with one simple command Edit
 * [Gloom](https://github.com/OpenSooq/Gloom) -  Gloom is an opensource service that takes long URLs and squeezes them into fewer characters to make a link that is easier to share, tweet, or email to friends.
 * [mockpy](https://github.com/nsomar/mockpy) - python command line utility to create development mock servers under Mac OS X easily.
-* [pyredis-dump](https://github.com/muayyad-alsadi/pyredis-dump) - A Redis dump/restore tool for long-term storage (currently Python Literals using [AST](https://docs.python.org/2/library/ast.html)) 
+* [pyredis-dump](https://github.com/muayyad-alsadi/pyredis-dump) - A Redis dump/restore tool for long-term storage (currently Python Literals using [AST](https://docs.python.org/2/library/ast.html))
 * [python-PooledProcessMixIn](https://github.com/muayyad-alsadi/python-PooledProcessMixIn) - Fast Concurrent Pool of [preforked-processes and threads MixIn](https://stackoverflow.com/questions/11699471/is-there-any-pool-for-threadingmixin-and-forkingmixin-for-socketserver/11781811) for python's socket server
 * [uPyApp](https://github.com/muayyad-alsadi/uPyApp) - Python Microservice Web Application scafold using [bottlepy](https://bottlepy.org/)
 
