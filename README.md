@@ -88,6 +88,7 @@ _Content odered alphabetically_
 ## PHP
 * [Firebase Notificatio with Yii2](https://github.com/OpenSooq/yii2-firebase-notification) - This extension will make send firebase notifications easy to do for the Yii2 framework.
 * [Varbase](https://github.com/Vardot/varbase) - An open source fully-fledged Web Content Management system built on top of Drupal 8, and enhanced for Arabic and RTL websites.
+* [Yii-Elastica](https://github.com/anasAsh/Yii-Elastica) a Yii application component, Dataprovider and autoloader, to use Elastica PHP library inside Yii framework.
 
 ## Python
 * [Diglett](https://github.com/OpenSooq/Diglett) - Diglett is a cron management system that manage all your cron jobs without modifying crontab. Handles locking, logging, error emails, and more.
