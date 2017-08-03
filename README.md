@@ -30,6 +30,7 @@ _Content odered alphabetically_
 ## Android
 
 * [FireCrasher](https://github.com/osama-raddad/FireCrasher) - Uncaught Exceptions handler library for android.
+* [Health Watcher](https://github.com/YahyaOdeh/HealthWatcher) - Android Application that can estimate Heart rate, Blood pressure, Respiration rate and Oxygen rate from only the camera of the mobile
 * [IslamicLibraryAndroid](https://github.com/fekracomputers/IslamicLibraryAndroid) - Islamic books Library with improved features.
 * [MDC_LocLookup](https://github.com/NRCMERO/MDC_LocLookup) - Off Line Location Look up.
 
