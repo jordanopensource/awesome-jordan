@@ -85,6 +85,7 @@ _Content odered alphabetically_
 * [hijri-date](https://github.com/arabiaweather/hijri-date) - convert Gregorian Dates to Hijri date.
 * [MySQL Punisher](https://github.com/faressoft/mysql-punisher) - Watch and kill active mysql queries that exeeded a specefic timeout.
 * [Slack Assembla Plugin](https://github.com/Ramzi-Alqrainy/slack-assembla-plugin) - A Slack plugin that watches channels for messages about Assembla and acts accordingly.
+* [Subscene Scraper](https://github.com/jodevsa/subscene_scraper) - Automate subtitle's downloading.
 
 ## PHP
 * [Firebase Notificatio with Yii2](https://github.com/OpenSooq/yii2-firebase-notification) - This extension will make send firebase notifications easy to do for the Yii2 framework.
