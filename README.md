@@ -69,6 +69,8 @@ _Content odered alphabetically_
 * [RtlCss](https://github.com/muayyad-alsadi/RtlCss) - Right-to-left override CSS Generator
 
 ## Java
+* [NAS by AKF](http://nas.abukhleif.com/) - An advanced web automation framework (based on Selenium 3.X) with custom code
+injection ability.
 * [Neo4Reach](https://github.com/wael34218/neo4reach) - Reachability index extension for Neo4j graph database (inactive).
 
 
