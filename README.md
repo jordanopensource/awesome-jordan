@@ -28,7 +28,7 @@ _Content odered alphabetically_
 _Content odered alphabetically_
 
 ## Android
-
+* [Gentle Palette](https://github.com/osama-raddad/gentle-palette/) - Gentle Palette is a color rounding tool.
 * [FireCrasher](https://github.com/osama-raddad/FireCrasher) - Uncaught Exceptions handler library for android.
 * [Health Watcher](https://github.com/YahyaOdeh/HealthWatcher) - Android Application that can estimate Heart rate, Blood pressure, Respiration rate and Oxygen rate from only the camera of the mobile
 * [IslamicLibraryAndroid](https://github.com/fekracomputers/IslamicLibraryAndroid) - Islamic books Library with improved features.
