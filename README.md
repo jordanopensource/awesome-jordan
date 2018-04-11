@@ -98,6 +98,7 @@ injection ability.
 * [Diglett](https://github.com/OpenSooq/Diglett) - Diglett is a cron management system that manage all your cron jobs without modifying crontab. Handles locking, logging, error emails, and more.
 * [Django Truncate](https://github.com/KhaledElAnsari/django-truncate) - A simple library to help you truncate your tables with one simple command Edit
 * [Gloom](https://github.com/OpenSooq/Gloom) -  Gloom is an opensource service that takes long URLs and squeezes them into fewer characters to make a link that is easier to share, tweet, or email to friends.
+* [HTML2X](https://github.com/mwmansour/html2x) -  Convert HTML links/files to PNG, JPG, or PDF files.
 * [mockpy](https://github.com/nsomar/mockpy) - python command line utility to create development mock servers under Mac OS X easily.
 * [pyredis-dump](https://github.com/muayyad-alsadi/pyredis-dump) - A Redis dump/restore tool for long-term storage (currently Python Literals using [AST](https://docs.python.org/2/library/ast.html))
 * [python-PooledProcessMixIn](https://github.com/muayyad-alsadi/python-PooledProcessMixIn) - Fast Concurrent Pool of [preforked-processes and threads MixIn](https://stackoverflow.com/questions/11699471/is-there-any-pool-for-threadingmixin-and-forkingmixin-for-socketserver/11781811) for python's socket server
