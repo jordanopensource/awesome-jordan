@@ -22,6 +22,7 @@ _Content odered alphabetically_
 - [Python](#python)
 - [R](#R)
 - [Scala](#scala)
+- [Alfred Workflows](#alfred-workflows)
 
 # Awesome Jordan
 
@@ -110,6 +111,9 @@ injection ability.
 
 ## Scala
 * [Solr Scala Play Framework](https://github.com/Ramzi-Alqrainy/solr-play-scala-client) - A Scala library in Play framework for indexing and searching documents within an Apache Solr. solr-play-scala-client uses SolrJ to communicate with Solr server, and it is compatable with Apache Solr 6.x.
+
+## Alfred Workflows
+* [Cheatsheet](https://github.com/mutdmour/alfred-workflow-cheatsheet) Alfred workflow that gets keyboard shortcuts for applications, websites, tools and others.
 
 ______________
 
