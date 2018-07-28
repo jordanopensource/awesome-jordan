@@ -68,7 +68,7 @@ _Content odered alphabetically_
 * [jq-console](https://github.com/replit/jq-console) - Feature complete web terminal.
 * [ngx-scroll-event](https://github.com/anasAsh/ngx-scroll-event) - An Angular 2+ directive to emit an event if scroll occurs on an element or window.
 * [RtlCss](https://github.com/muayyad-alsadi/RtlCss) - Right-to-left override CSS Generator
-* [tashkeel] (https://github.com/kefahi/tashkeel) - web-based coloring for Arabic language supplementary diacritics and consonant pointing.
+* [tashkeel](https://github.com/kefahi/tashkeel) - web-based coloring for Arabic language supplementary diacritics and consonant pointing.
 
 ## Java
 * [NAS by AKF](http://nas.abukhleif.com/) - An advanced web automation framework (based on Selenium 3.X) with custom code
