@@ -29,8 +29,8 @@ _Content odered alphabetically_
 _Content odered alphabetically_
 
 ## Android
-* [Gentle Palette](https://github.com/osama-raddad/gentle-palette/) - Gentle Palette is a color rounding tool.
 * [FireCrasher](https://github.com/osama-raddad/FireCrasher) - Uncaught Exceptions handler library for android.
+* [Gentle Palette](https://github.com/osama-raddad/gentle-palette/) - Gentle Palette is a color rounding tool.
 * [Health Watcher](https://github.com/YahyaOdeh/HealthWatcher) - Android Application that can estimate Heart rate, Blood pressure, Respiration rate and Oxygen rate from only the camera of the mobile
 * [IslamicLibraryAndroid](https://github.com/fekracomputers/IslamicLibraryAndroid) - Islamic books Library with improved features.
 * [MDC_LocLookup](https://github.com/NRCMERO/MDC_LocLookup) - Off Line Location Look up.
@@ -99,6 +99,7 @@ injection ability.
 * [Yii-Elastica](https://github.com/anasAsh/Yii-Elastica) a Yii application component, Dataprovider and autoloader, to use Elastica PHP library inside Yii framework.
 
 ## Python
+* [Bella](https://github.com/kdaoudieh/Bella) - Pure Python post-exploitation data mining and remote administration tool for macOS.
 * [Diglett](https://github.com/OpenSooq/Diglett) - Diglett is a cron management system that manage all your cron jobs without modifying crontab. Handles locking, logging, error emails, and more.
 * [Django Truncate](https://github.com/KhaledElAnsari/django-truncate) - A simple library to help you truncate your tables with one simple command Edit
 * [Gloom](https://github.com/OpenSooq/Gloom) -  Gloom is an opensource service that takes long URLs and squeezes them into fewer characters to make a link that is easier to share, tweet, or email to friends.
@@ -107,7 +108,6 @@ injection ability.
 * [pyredis-dump](https://github.com/muayyad-alsadi/pyredis-dump) - A Redis dump/restore tool for long-term storage (currently Python Literals using [AST](https://docs.python.org/2/library/ast.html))
 * [python-PooledProcessMixIn](https://github.com/muayyad-alsadi/python-PooledProcessMixIn) - Fast Concurrent Pool of [preforked-processes and threads MixIn](https://stackoverflow.com/questions/11699471/is-there-any-pool-for-threadingmixin-and-forkingmixin-for-socketserver/11781811) for python's socket server
 * [uPyApp](https://github.com/muayyad-alsadi/uPyApp) - Python Microservice Web Application scafold using [bottlepy](https://bottlepy.org/)
-* [Bella](https://github.com/kdaoudieh/Bella) - Pure Python post-exploitation data mining and remote administration tool for macOS.
 
 ## R
 * [Internal PageRank](https://github.com/Ramzi-Alqrainy/internal-pagrank) - Calculate Internal PageRank using R from Screaming Frog Crawl (To improve Navigation-Based Internal links for SEO)
