@@ -54,10 +54,10 @@ _Content odered alphabetically_
 
 
 ## Docker, Linux containers and Kubernetes
-* [Docker Glue](https://github.com/muayyad-alsadi/docker-glue) - Automated unattended pluggable docker management
-* [Docker Jumpshell](https://github.com/muayyad-alsadi/docker-jumpshell) - A secure remote shell access inside docker containers without granting access to host or docker socket
-* [Docker Stanbol Socket.io Server](https://github.com/Vardot/docker-stanbol-nodejs) - A Docker image that installs Apache Stanbol with Socket.IO to provide an HTTP listener for you application with real-time content enhancements.
-* [Rancher 2.0 Server Disater Recovery](https://github.com/Salalem/rancher-s3-backup) - A docker image that syncs all rancher-data (etcd) to an s3 bucket
+* [Docker Glue](https://github.com/muayyad-alsadi/docker-glue) - Automated unattended pluggable Docker management.
+* [Docker Jumpshell](https://github.com/muayyad-alsadi/docker-jumpshell) - A secure remote shell access inside Docker containers without granting access to host or Docker socket.
+* [Docker Stanbol Socket.io Server](https://github.com/Vardot/docker-stanbol-nodejs) - A Docker image that installs Apache Stanbol with Socket.IO to provide an HTTP listener for your application with real-time content enhancements.
+* [Rancher 2.0 Server Disaster Recovery](https://github.com/Salalem/rancher-s3-backup) - A Docker image that syncs all rancher-data (etcd) to an S3 bucket.
 
 ## Frontend
 * [ajax-ops](https://github.com/muayyad-alsadi/ajax-ops) - Declarative Ajax Operations
