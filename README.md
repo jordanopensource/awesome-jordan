@@ -30,6 +30,7 @@ _Content odered alphabetically_
 
 ## Android
 * [Printooth](https://github.com/mazenrashed/Printooth) - Universal thermal Bluetooth printers driver, It's easy, generic and well documented.
+* [RxPagination](https://github.com/mazenrashed/RxPagination) - Implement the pagination in a few lines.
 * [LogDna android client](https://github.com/mazenrashed/LogDNA-Android-Client) - Android SDK for [LogDna](https://logdna.com)
 * [Dots Indicator Without Viewpager](https://github.com/mazenrashed/DotsIndicatorWithoutViewpager) - Dots indicator to use it without viewpager, use can use it with swipe gestures, buttons and more.
 * [FireCrasher](https://github.com/osama-raddad/FireCrasher) - Uncaught Exceptions handler library for android.
