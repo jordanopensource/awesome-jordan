@@ -29,16 +29,16 @@ _Content odered alphabetically_
 _Content odered alphabetically_
 
 ## Android
-* [Printooth](https://github.com/mazenrashed/Printooth) - Universal thermal Bluetooth printers driver, It's easy, generic and well documented.
-* [RxPagination](https://github.com/mazenrashed/RxPagination) - Implement the pagination in a few lines.
-* [LogDna android client](https://github.com/mazenrashed/LogDNA-Android-Client) - Android SDK for [LogDna](https://logdna.com)
 * [Dots Indicator Without Viewpager](https://github.com/mazenrashed/DotsIndicatorWithoutViewpager) - Dots indicator to use it without viewpager, use can use it with swipe gestures, buttons and more.
 * [FireCrasher](https://github.com/osama-raddad/FireCrasher) - Uncaught Exceptions handler library for android.
 * [Gentle Palette](https://github.com/osama-raddad/gentle-palette/) - Gentle Palette is a color rounding tool.
 * [Health Watcher](https://github.com/YahyaOdeh/HealthWatcher) - Android Application that can estimate Heart rate, Blood pressure, Respiration rate and Oxygen rate from only the camera of the mobile
 * [IslamicLibraryAndroid](https://github.com/fekracomputers/IslamicLibraryAndroid) - Islamic books Library with improved features.
+* [LogDna android client](https://github.com/mazenrashed/LogDNA-Android-Client) - Android SDK for [LogDna](https://logdna.com).
 * [MDC_LocLookup](https://github.com/NRCMERO/MDC_LocLookup) - Off Line Location Look up.
 * [Pluto](https://github.com/OpenSooq/Pluto) - Lightweight, performant and highly-flexible slider view library.
+* [Printooth](https://github.com/mazenrashed/Printooth) - Universal thermal Bluetooth printers driver, It's easy, generic and well documented.
+* [RxPagination](https://github.com/mazenrashed/RxPagination) - Implement the pagination in a few lines.
 
 ## C#
 
