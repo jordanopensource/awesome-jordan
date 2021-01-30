@@ -92,6 +92,7 @@ injection ability.
 
 ## NodeJS
 * [Azhan Jo](https://github.com/faressoft/azhan-jo) - Get azhan times in Amman.
+* [Falak](https://github.com/MohammedAl-Rowad/Falak) - A real-time dashboard for update, delete, and create operations that happened in MySQL.
 * [geojson-lookup](https://github.com/nestrom/geojson-lookup) - Lookup Geojson feature collections by indexing them by feature properties (INDEX TABLES) and by a Geometry (R-TREE) all in memory.
 * [hijri-date](https://github.com/arabiaweather/hijri-date) - convert Gregorian Dates to Hijri date.
 * [MySQL Punisher](https://github.com/faressoft/mysql-punisher) - Watch and kill active mysql queries that exeeded a specefic timeout.
