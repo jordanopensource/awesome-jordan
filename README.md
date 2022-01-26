@@ -103,6 +103,7 @@ injection ability.
 
 
 ## PHP
+* [Arachnid](https://github.com/zrashwani/arachnid) - Crawl all unique internal links found on a given website, and extract SEO related information - supports javascript based sites.
 * [Firebase Notificatio with Yii2](https://github.com/OpenSooq/yii2-firebase-notification) - This extension will make send firebase notifications easy to do for the Yii2 framework.
 * [Varbase](https://github.com/Vardot/varbase) - An open source fully-fledged Web Content Management system built on top of Drupal 8, and enhanced for Arabic and RTL websites.
 * [Yii-Elastica](https://github.com/anasAsh/Yii-Elastica) a Yii application component, Dataprovider and autoloader, to use Elastica PHP library inside Yii framework.
