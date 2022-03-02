@@ -101,7 +101,7 @@ injection ability.
 * [Slack Assembla Plugin](https://github.com/Ramzi-Alqrainy/slack-assembla-plugin) - A Slack plugin that watches channels for messages about Assembla and acts accordingly.
 * [Subscene Scraper](https://github.com/jodevsa/subscene_scraper) - Automate subtitle's downloading.
 * [Terminalizer](https://github.com/faressoft/terminalizer) - Record your terminal and generate animated gif images.
-
+* [Tiny Injector](https://github.com/ezzabuzaid/tiny-injector) - TypeScript Dependency Injection library.
 
 ## PHP
 * [Arachnid](https://github.com/zrashwani/arachnid) - Crawl all unique internal links found on a given website, and extract SEO related information - supports javascript based sites.
