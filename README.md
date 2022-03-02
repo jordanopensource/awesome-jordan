@@ -63,6 +63,7 @@ _Content odered alphabetically_
 * [Docker Jumpshell](https://github.com/muayyad-alsadi/docker-jumpshell) - A secure remote shell access inside Docker containers without granting access to host or Docker socket.
 * [Docker Stanbol Socket.io Server](https://github.com/Vardot/docker-stanbol-nodejs) - A Docker image that installs Apache Stanbol with Socket.IO to provide an HTTP listener for your application with real-time content enhancements.
 * [Rancher 2.0 Server Disaster Recovery](https://github.com/Salalem/rancher-s3-backup) - A Docker image that syncs all rancher-data (etcd) to an S3 bucket.
+* [wireguard-operator](https://github.com/jodevsa/wireguard-operator) - A wireguard operator created to easily provision a VPN in a k8s cluster.
 
 ## Frontend
 * [ajax-ops](https://github.com/muayyad-alsadi/ajax-ops) - Declarative Ajax Operations
