@@ -5,7 +5,7 @@ A curated list of awesome open source projects in Jordan or by Jordanians.
 
 # Table of contents
 
-_Content odered alphabetically_
+_Content ordered alphabetically_
 
 [Awesome Jordan](#awesome-jordan)
 
