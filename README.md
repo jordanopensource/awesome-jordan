@@ -88,6 +88,7 @@ injection ability.
 ## Linux
 * [Command Line Push Notifications](https://github.com/OsamaJBR/command-line-push-notification) - A simple script that could be added to the Linux system and give it the ability to push notifications to Android phone from the command line.
 * [oneway](https://github.com/muayyad-alsadi/oneway) - a no-way-back tool to drop privileges useful for docker entry-points
+* [Nabatean-gnulinux](https://codeberg.org/contractover/Nabatean-gnulinux) - A GNU+Linux Distribution with a focus on Arabic Support,Beginner Friendliness & Security.
 
 ### Gists
 * [SSH Recipes](https://gist.github.com/mjalajel/beaa91a5f8d04ebb464c2c28da01406a) - Recipes for writing awesome ssh config files.
