@@ -78,6 +78,8 @@ _Content odered alphabetically_
 * [RtlCss](https://github.com/muayyad-alsadi/RtlCss) - Right-to-left override CSS Generator
 * [tashkeel](https://github.com/kefahi/tashkeel) - web-based coloring for Arabic language supplementary diacritics and consonant pointing.
 * [vexpest](https://github.com/MohammedAl-Rowad/vexpest_V2) - A tool that generates an analytics dashboard for any user or organization on GitHub.
+* [onSubmit](https://github.com/AmmarHalees/onsubmit) - Typescript utilities for input validation, with emphasis on security.
+
 
 ## Java
 * [NAS by AKF](http://nas.abukhleif.com/) - An advanced web automation framework (based on Selenium 3.X) with custom code
