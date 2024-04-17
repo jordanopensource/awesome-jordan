@@ -118,6 +118,7 @@ injection ability.
 * [Django Truncate](https://github.com/KhaledElAnsari/django-truncate) - A simple library to help you truncate your tables with one simple command Edit
 * [Gloom](https://github.com/OpenSooq/Gloom) -  Gloom is an opensource service that takes long URLs and squeezes them into fewer characters to make a link that is easier to share, tweet, or email to friends.
 * [HTML2X](https://github.com/mwmansour/html2x) -  Convert HTML links/files to PNG, JPG, or PDF files.
+* [Hamood-Bot](https://github.com/ka-chng/hamood-bot) - Full stack discord python bot with features such as commenting on userprofiles and full setup database and event handlers.
 * [mockpy](https://github.com/nsomar/mockpy) - python command line utility to create development mock servers under Mac OS X easily.
 * [Podman Compose](https://github.com/containers/podman-compose) - Rootless Container Stacks using Podman. An alternative to Docker-Compose.
 * [pyredis-dump](https://github.com/muayyad-alsadi/pyredis-dump) - A Redis dump/restore tool for long-term storage (currently Python Literals using [AST](https://docs.python.org/2/library/ast.html))
