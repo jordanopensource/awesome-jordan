@@ -105,7 +105,7 @@ injection ability.
 * [Subscene Scraper](https://github.com/jodevsa/subscene_scraper) - Automate subtitle's downloading.
 * [Terminalizer](https://github.com/faressoft/terminalizer) - Record your terminal and generate animated gif images.
 * [Tiny Injector](https://github.com/ezzabuzaid/tiny-injector) - TypeScript Dependency Injection library.
-
+* [Xmr store](https://github.com/Wassabiguy/xmr_store) - A code sample to show how easy it is to integrate crypto as a payment method in your app with privacy in mind using Monero.
 ## PHP
 * [Arachnid](https://github.com/zrashwani/arachnid) - Crawl all unique internal links found on a given website, and extract SEO related information - supports javascript based sites.
 * [Firebase Notificatio with Yii2](https://github.com/OpenSooq/yii2-firebase-notification) - This extension will make send firebase notifications easy to do for the Yii2 framework.
