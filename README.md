@@ -20,7 +20,7 @@ _Content ordered alphabetically_
 - [NodeJS](#nodejs)
 - [PHP](#php)
 - [Python](#python)
-- [R](#R)
+- [R](#r)
 - [Scala](#scala)
 - [Alfred Workflows](#alfred-workflows)
 
@@ -44,7 +44,6 @@ _Content odered alphabetically_
 
   * [C# Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - Portable class-library of 35+ Data Structures and 30+ Algorithms.
   * [CryptoN](https://github.com/tamimsalem/CryptoN) - A simple library that makes it easier to do essential crypto tasks. A bit stale.
-  * [EasyFacebook](https://github.com/Yazan1983/EasyFacebook) - A .NET framework to connect to Facebook API and consume Facebook services
   * [RRTM](https://github.com/BaselAriqat/RRTM) - Simulate probablistic path finding algorithms (RRT) and its variation (not in active development).
 
 ## D
@@ -82,7 +81,7 @@ _Content odered alphabetically_
 
 
 ## Java
-* [NAS by AKF](http://nas.abukhleif.com/) - An advanced web automation framework (based on Selenium 3.X) with custom code
+* [NAS by AKF](https://github.com/mohnoor94/NAS) - An advanced web automation framework (based on Selenium 3.X) with custom code
 injection ability.
 * [Neo4Reach](https://github.com/wael34218/neo4reach) - Reachability index extension for Neo4j graph database (inactive).
 
