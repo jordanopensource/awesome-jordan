@@ -9,6 +9,7 @@ _Content ordered alphabetically_
 
 [Awesome Jordan](#awesome-jordan)
 
+- [AI Security](#ai-security)
 - [Android](#android)
 - [C#](#c)
 - [D](#d)
@@ -28,6 +29,11 @@ _Content ordered alphabetically_
 
 _Content odered alphabetically_
 
+## AI Security
+Projects for securing LLM applications and AI agents.
+
+* [SemGuard](https://github.com/AbdaullahAG/SemGuard) - Multilingual (Arabic, Arabizi, English) security gateway that detects prompt injection, phishing, privacy leakage, and adversarial Unicode attacks in LLM inputs.
+  
 ## Android
 * [Dots Indicator Without Viewpager](https://github.com/mazenrashed/DotsIndicatorWithoutViewpager) - Dots indicator to use it without viewpager, use can use it with swipe gestures, buttons and more.
 * [FireCrasher](https://github.com/osama-raddad/FireCrasher) - Uncaught Exceptions handler library for android.
