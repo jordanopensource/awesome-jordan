@@ -123,6 +123,7 @@ injection ability.
 * [Podman Compose](https://github.com/containers/podman-compose) - Rootless Container Stacks using Podman. An alternative to Docker-Compose.
 * [pyredis-dump](https://github.com/muayyad-alsadi/pyredis-dump) - A Redis dump/restore tool for long-term storage (currently Python Literals using [AST](https://docs.python.org/2/library/ast.html))
 * [python-PooledProcessMixIn](https://github.com/muayyad-alsadi/python-PooledProcessMixIn) - Fast Concurrent Pool of [preforked-processes and threads MixIn](https://stackoverflow.com/questions/11699471/is-there-any-pool-for-threadingmixin-and-forkingmixin-for-socketserver/11781811) for python's socket server
+* [tawfeer-llm](https://github.com/AbdaullahAG/tawfeer-llm) - Arabic text normalizer for LLM pipelines (published as `ar-tokenwise`) that reports measured token and cost savings.
 * [uPyApp](https://github.com/muayyad-alsadi/uPyApp) - Python Microservice Web Application scafold using [bottlepy](https://bottlepy.org/)
 
 ## R
